@@ -17,7 +17,7 @@ const Review = () => {
   }
 
   const nextPerson = () => {
-    setIndex((indext) => {
+    setIndex((index) => {
       let newIndex = index + 1;
       return checkNumber(newIndex);
     })
