@@ -1,10 +1,17 @@
 import React from 'react';
 import Review from './Review';
-import { DiAndroid } from "react-icons/di";
 function App() {
-  return <h2>
-    < DiAndroid className='icon'/>
-  </h2>;
+  return (
+    <main>
+      <section className="container">
+        <div className="title">
+          <h1>our reviews</h1>
+          <div className="underline"></div>
+        </div>
+        <Review />
+      </section>
+    </main>
+  )
 }
 
 export default App;
