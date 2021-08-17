@@ -1,7 +1,3 @@
-# Basic-React-Projects
-
-Basic React Projects for Practice
-
 ## Corresponding Projects
 
 #### useState
@@ -37,3 +33,7 @@ Basic React Projects for Practice
 14. Cart
 
 #### React Router
+
+15. Coctails
+
+See Projects Link: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=0s)
