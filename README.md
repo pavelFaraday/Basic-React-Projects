@@ -28,11 +28,11 @@
 12. Modal and Sidebar
 13. Stripe Menus
 
-#### useReducer and useContext
+#### useReducer & useContext
 
 14. Cart
 
-#### React Router
+#### React Router & useContext
 
 15. Coctails
 
